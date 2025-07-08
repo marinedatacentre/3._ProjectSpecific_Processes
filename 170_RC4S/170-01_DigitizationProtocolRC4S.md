@@ -1,3 +1,12 @@
+---
+process_number: 170-01
+title: DigitizationProtocolRC4S
+author: Maria Catanzaro
+created: 2024-07-08
+modified: 2024-09-27
+review_period: 3 years
+---
+
 # Digitizing Shoreline Modifications with Boat-based Imagery, QGIS, Open Street Maps (Mapillary), and Google Earth Pro
 
 **Objective**: To digitize shoreline modifications along the entire east coast of Vancouver Island using linear features.

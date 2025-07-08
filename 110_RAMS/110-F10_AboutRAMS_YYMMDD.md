@@ -1,3 +1,12 @@
+---
+process_number: 110-F10
+title: AboutRAMS_YYMMDD
+author: Paulina Salinas Ruiz
+created: 2025-06-26
+modified: 2025-06-26
+review_period: 3 years
+---
+
 **Marine Data Centre Webpage:** <https://marinedata.psf.ca/knowledge-hubs/risk-assessment-method-for-salmon/>
 
 **About the Risk Assessment Method for Salmon:**

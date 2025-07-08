@@ -1,3 +1,12 @@
+---
+process_number: 140-03
+title: AddingRecordsToOccurrenceCore_240626
+author: Paulina Salinas Ruiz
+created: 2024-06-26
+modified: 2025-06-18
+review_period: 3 years
+---
+
 **There is also a description of each column for the Contaminant Atlas in the Excel sheet under Data Dictionary**
 
 **Purpose:**

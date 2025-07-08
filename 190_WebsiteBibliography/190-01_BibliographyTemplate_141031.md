@@ -1,3 +1,12 @@
+---
+process_number: 190-01
+title: BibliographyTemplate_141031
+author: Paulina Salinas Ruiz
+created: 2024-10-31
+modified: 2024-11-01
+review_period: 3 years
+---
+
 **Purpose:**
 
 This document outlines how to update the Straight of Georgia (SoG) Literature Database. This database aims to provide relevant references pertaining to current and historical studies and information on the Strait of Georgia marine and freshwater ecosystems. The coverage is broad in scope and includes the following topical areas: physical and chemical oceanography; hydrography; weather and climate; rivers and streams; 4ora and fauna (including all marine species, birds and marine mammals); ecology; biochemistry; water quality; industry and development impacts; hatcheries; aquaculture; human populations; harvests; and recreational and commercial use, including tourism, boating, fishing, etc.

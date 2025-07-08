@@ -1,3 +1,12 @@
+---
+process_number: 160-01
+title: FME_ConsolidateForageFishData_240416
+author: Paulina Salinas Ruiz
+created: 2024-04-16
+modified: 2024-04-17
+review_period: 3 years
+---
+
 **Purpose:**
 
 This document describes how to use FME to create a consolidated dataset that takes source data from multiple organizations and combines them to one dataset with 15 preset fields. The purpose of this consolidated dataset is to assist the efforts of the Strait of Georgia Forage Fish Monitoring Network by uniting the data into a simplified format.

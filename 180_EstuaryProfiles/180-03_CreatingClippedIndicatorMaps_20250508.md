@@ -1,3 +1,12 @@
+---
+process_number: 180-03
+title: CreatingClippedIndicatorMaps_20250508
+author: Paulina Salinas Ruiz
+created: 2025-05-08
+modified: 2025-05-08
+review_period: 3 years
+---
+
 **Purpose:**
 
 This procedure outlines the process for creating indicator maps for the AERF Greening the Salish Sea Estuary Profiles in accordance with ISO 9000 quality management principles. The purpose of this procedure is to ensure efficiency in the creation and consistency in the display of the Estuary Profiles.

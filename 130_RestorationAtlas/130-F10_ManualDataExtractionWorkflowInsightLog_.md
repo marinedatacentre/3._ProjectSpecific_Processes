@@ -1,3 +1,12 @@
+---
+process_number: 130-F10
+title: ManualDataExtractionWorkflowInsightLog_
+author: Natalia Garcia-Arias
+created: 2024-10-07
+modified: 2024-10-07
+review_period: 3 years
+---
+
 **Purpose:**
 
 The purpose of this log is to collect insights on the Manual Data Extraction Process for the Restoration Atlas. These insights will be used to help guide the design and development of an Automated Extraction Tool.

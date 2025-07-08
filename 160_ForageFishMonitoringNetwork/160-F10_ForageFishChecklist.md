@@ -1,3 +1,12 @@
+---
+process_number: 160-F10
+title: ForageFishChecklist
+author: Terry Curran
+created: 2020-11-12
+modified: 2020-11-12
+review_period: 3 years
+---
+
 ***Notes:***
 
 1.  *Prior to submitting the Forage Fish Monitoring data to Pacific Salmon Foundation’s Strait of Georgia (SOG) Data Centre, please complete the checklist to minimize possible entry errors within the dataset.*

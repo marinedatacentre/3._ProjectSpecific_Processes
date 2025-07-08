@@ -1,3 +1,12 @@
+---
+process_number: extractionMethodology
+title: fromSam
+author: Unknown
+created: Unknown
+modified: 2025-07-08
+review_period: 3 years
+---
+
 *Last edited: 25th Aug 2023*
 
 ### Summary

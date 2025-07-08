@@ -1,3 +1,12 @@
+---
+process_number: 110-01
+title: UpdatingRAMS_YYMMDD
+author: Paulina Salinas Ruiz
+created: 2025-06-26
+modified: 2025-06-26
+review_period: 3 years
+---
+
 **Purpose:**
 
 The purpose of this process is to guide users through conducting updates to the Risk Assessment Method interactive dashboard. This dashboard is composed of two layers from the Data Centre:

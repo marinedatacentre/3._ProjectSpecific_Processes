@@ -1,3 +1,12 @@
+---
+process_number: 190-02
+title: AddingLiterature_141031
+author: Paulina Salinas Ruiz
+created: 2024-11-01
+modified: 2025-05-08
+review_period: 3 years
+---
+
 **Purpose:**
 
 This document outlines how to update the Straight of Georgia (SoG) Literature Database. This database aims to provide relevant references pertaining to current and historical studies and information on the Strait of Georgia marine and freshwater ecosystems.

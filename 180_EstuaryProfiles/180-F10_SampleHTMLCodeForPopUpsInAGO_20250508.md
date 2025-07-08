@@ -1,3 +1,12 @@
+---
+process_number: 180-F10
+title: SampleHTMLCodeForPopUpsInAGO_20250508
+author: Paulina Salinas Ruiz
+created: 2025-05-08
+modified: 2025-05-08
+review_period: 3 years
+---
+
 Sample HTML code for popups in ArcOnline:
 
 \<div style="margin:10px 0;padding:0;text-align:center;"\>
